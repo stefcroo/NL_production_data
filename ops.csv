@@ -1,0 +1,335 @@
+FIELD,WELL,OPERATOR,YEAR,MONTH,PRODUCTION,field_rank_year,well_count,delta_WELL_PROD,sum_field_prod
+Warffum,WARFFUM-02,Nederlandse Aardolie Maatschappij B.V.,2003,FEB,37.97694,18,,0,0
+L13-FC,L13-FC-104,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,95,,0,0
+L13-FD,L13-FD-102,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,5008.73642,227,,0,0
+L13-FE,L13-FE-102,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,7597.49783,119,,0,0
+L13-FF,L13-FD-103,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,154,,0,0
+L13-FG,L13-FE-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,6538.3631700000005,130,,0,0
+L13-FH,L13-FH-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,664.59645,277,,0,0
+L15b-A,L15-FA-102,Neptune Energy Netherlands B.V.,2003,SEP,6023.56465,65,,0,0
+Markham,J06-A-03,Spirit Energy Nederland B.V.,2003,SEP,2131.931524165,109,,0,0
+P06-Main,P06-A-01,Wintershall Noordzee B.V.,2003,SEP,0.0,122,,0,0
+P12-SW,P12-SW-05,Wintershall Noordzee B.V.,2003,SEP,5741.42763325,219,,0,0
+L13-FB,L13-FC-105,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,323,,0,0
+L10-CDA,L10-E-06,Neptune Energy Netherlands B.V.,2003,SEP,0.0,34,,0,0
+L10-M,L10-M-02,Neptune Energy Netherlands B.V.,2003,SEP,12447.997,23,,0,0
+L10-S2,L10-S-02,Neptune Energy Netherlands B.V.,2003,SEP,2004.3385,259,,0,0
+L10-S3,L10-S-03,GDF Production Nederland B.V.,2003,SEP,2004.3385,286,,0,0
+L10-S4,L10-S-04,Neptune Energy Netherlands B.V.,2003,SEP,1687.864,276,,0,0
+L11b-A,L11B-A-02,ONE-Dyas B.V.,2003,SEP,2038.43546263,243,,0,0
+L12b-C,L15-FA-106,Neptune Energy Netherlands B.V.,2003,SEP,5488.722745,191,,0,0
+L10-G,L10-G-01,Neptune Energy Netherlands B.V.,2003,SEP,1265.898,257,,0,0
+P14-A,P14-A-01,Wintershall Noordzee B.V.,2003,SEP,10677.91714456,218,,0,0
+Q01-B,Q04-C-01,Wintershall Noordzee B.V.,2003,SEP,0.0,3,,0,0
+Q04-A,Q04-A-01,Wintershall Noordzee B.V.,2003,SEP,6898.27063038,76,,0,0
+Q04-B,Q04-B-01,Wintershall Noordzee B.V.,2003,SEP,38489.646623555,60,,0,0
+Q08-A,Q08-A-02,Wintershall Noordzee B.V.,2003,SEP,473.55978282,301,,0,0
+Q08-B,Q08-B-01,Wintershall Noordzee B.V.,2003,SEP,0.0,323,,0,0
+Q16-FA,Q16-FA-101,ONE-Dyas B.V.,2003,SEP,43631.2844,38,,0,0
+L09-FI,L09-FF-106,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,15919.722265,149,,0,0
+K12-G,K12-G-07,Neptune Energy Netherlands B.V.,2003,SEP,0.0,12,,0,0
+K12-S1,K12-S-01,GDF Production Nederland B.V.,2003,SEP,0.0,302,,0,0
+K14-FA,K14-FA-102,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,184,,0,0
+K14-FB,K14-FB-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,12611.508825,64,,0,0
+K15-FA,K15-FA-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,4127.8823950000005,36,,0,0
+K15-FB,K15-FB-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,858.70081,58,,0,0
+K15-FC,K15-FC-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,198,,0,0
+K09ab-A,K09AB-A-02,Neptune Energy Netherlands B.V.,2003,SEP,6013.0155,115,,0,0
+K09ab-B,K09AB-B-03,Neptune Energy Netherlands B.V.,2003,SEP,0.0,94,,0,0
+K09c-A,K09C-A-02,Neptune Energy Netherlands B.V.,2003,SEP,0.0,172,,0,0
+K10-B (gas),K10-B-03,Wintershall Noordzee B.V.,2003,SEP,0.0,323,,0,0
+K12-A,K12-A-03,GDF Production Nederland B.V.,2003,SEP,2637.2875,267,,0,0
+K12-B,K12-B-02,Neptune Energy Netherlands B.V.,2003,SEP,0.0,89,,0,0
+K12-D,K12-D-02,Neptune Energy Netherlands B.V.,2003,SEP,2637.2875,136,,0,0
+K15-FG,K15-FG-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,83,,0,0
+L07-B,L07-B-04,Total E&P Nederland B.V.,2003,SEP,0.0,318,,0,0
+L07-C,L07-C-02,Total E&P Nederland B.V.,2003,SEP,1576.917534535,189,,0,0
+L07-G,K09AB-AG-01,Total E&P Nederland B.V.,2003,SEP,17023.32370208,179,,0,0
+L07-H,L07-H-02,Total E&P Nederland B.V.,2003,SEP,425.86496584,270,,0,0
+L07-H South-East,L07-H-03,Total E&P Nederland B.V.,2003,SEP,94.3937942,223,,0,0
+L07-N,L07-N-02,Total E&P Nederland B.V.,2003,SEP,0.0,279,,0,0
+L08-A,L08-A-02,Wintershall Noordzee B.V.,2003,SEP,1956.01284385,212,,0,0
+L08-G,L08-G-01,Wintershall Noordzee B.V.,2003,SEP,2412.661284305,209,,0,0
+L08-H,L08-H-01,Wintershall Noordzee B.V.,2003,SEP,2802.002983015,234,,0,0
+L08-P,L08-P-03,Wintershall Noordzee B.V.,2003,SEP,7954.752179155001,112,,0,0
+L09-FC,L09-FF-107,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,21658.459865,202,,0,0
+L09-FD,L09-FF-102,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,60873.870075000006,4,,0,0
+L09-FF,L09-FF-105,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,21357.80909,129,,0,0
+L07-A,L07-A-01,Total E&P Nederland B.V.,2003,SEP,0.0,321,,0,0
+L05a-A,L05-FA-103,Neptune Energy Netherlands B.V.,2003,SEP,22064.602140000003,22,,0,0
+K15-FK,K15-FK-102,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,73663.659535,31,,0,0
+K15-FL,K15-FG-105,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,158,,0,0
+Kotter,K18-KOTTER-03,Wintershall Noordzee B.V.,2003,SEP,0.00843932,316,,0,0
+L01-A,L04-PN-01,Total E&P Nederland B.V.,2003,SEP,17343.635982850003,96,,0,0
+L02-FA,L02-FA-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,77,,0,0
+L04-A,L04-A-02,Total E&P Nederland B.V.,2003,SEP,0.0,84,,0,0
+L04-B,L04-B-01,Total E&P Nederland B.V.,2003,SEP,0.0,210,,0,0
+L04-F,L04-PN-04,Total E&P Nederland B.V.,2003,SEP,9619.348973915,133,,0,0
+L04-I,L04-PN-02,Total E&P Nederland B.V.,2003,SEP,11059.386012625,132,,0,0
+K08-FA,K08-FA-102,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,0.0,7,,0,0
+K07-FE,K07-FD-102,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,15568.43557,193,,0,0
+K07-FD,K07-FD-101,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,9914.09117,208,,0,0
+K07-FC,K08-FA-107,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,7062.655925,67,,0,0
+K07-FB,K07-FB-101,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,0.0,59,,0,0
+K07-FA,K07-FA-106,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,1238.47021,195,,0,0
+K06-T,K06-GT-03,Total E&P Nederland B.V.,2003,JUL,0.0,249,,0,0
+K06-N,K06-N-02,Total E&P Nederland B.V.,2003,JUL,0.0,309,,0,0
+K06-G,K06-GT-04,Total E&P Nederland B.V.,2003,JUL,8569.592508265001,55,,0,0
+K06-DN,K06-DN-04,Total E&P Nederland B.V.,2003,JUL,1698.0681927950002,81,,0,0
+K06-D,K06-D-02,Total E&P Nederland B.V.,2003,JUL,4355.9972146,66,,0,0
+K06-C,K06-C-02,Total E&P Nederland B.V.,2003,JUL,1755.031492965,128,,0,0
+K06-A,L04-PN-03,Total E&P Nederland B.V.,2003,JUL,0.0,199,,0,0
+K05a-Es,K05-D-03,Total E&P Nederland B.V.,2003,JUL,0.0,228,,0,0
+K08-FC,K08-FA-304,Nederlandse Aardolie Maatschappij B.V.,2003,JUL,0.0,185,,0,0
+K05a-En,K05-ENC-04,Total E&P Nederland B.V.,2003,JUL,2064.59313497,139,,0,0
+K05a-D,K05-D-02,Total E&P Nederland B.V.,2003,JUL,228.92077466,68,,0,0
+Hoorn,Q01-HOORN-A-03,Petrogas E&P Netherlands B.V.,2003,JUL,23.194416105,304,,0,0
+Helm,Q01-HELM-A-09,Petrogas E&P Netherlands B.V.,2003,JUL,26.165056745,299,,0,0
+Helder,Q01-HELDER-A-15,Petrogas E&P Netherlands B.V.,2003,JUL,33.30155672,284,,0,0
+K05a-B,K05-B-02,Total E&P Nederland B.V.,2003,JUL,9233.72796041,32,,0,0
+K05a-A,K05-A-04,Total E&P Nederland B.V.,2003,JUL,23121.585828315,8,,0,0
+K04a-B,K04-BE-03,Total E&P Nederland B.V.,2003,JUL,0.0,164,,0,0
+K04-N,K04-A-04,Total E&P Nederland B.V.,2003,JUL,15600.85521778,28,,0,0
+K04-E,K04-BE-04,Total E&P Nederland B.V.,2003,JUL,0.0,35,,0,0
+K04-A,K04-A-03,Total E&P Nederland B.V.,2003,JUL,5750.305797890001,39,,0,0
+K01-A Unit,K01-A-04,Total E&P Nederland B.V.,2003,JUL,0.0,6,,0,0
+J03-C Unit,J06-A-05,Total E&P Nederland B.V.,2003,JUL,16866.55278393,49,,0,0
+Horizon,P09-HORIZON-A-08,Petrogas E&P Netherlands B.V.,2003,JUL,28.089221705,283,,0,0
+Vries,VRIES-06,Nederlandse Aardolie Maatschappij B.V.,2003,JAN,1400.92712,72,,0,0
+Waalwijk-Noord,WAALWIJK NOORD-01,Vermilion Energy Netherlands B.V.,2003,JAN,4886.974965955001,190,,0,0
+Wanneperveen,WANNEPERVEEN-01,Nederlandse Aardolie Maatschappij B.V.,2003,JAN,0.0,187,,0,0
+Ureterp,URETERP-202,Nederlandse Aardolie Maatschappij B.V.,2003,JAN,0.0,113,,0,0
+Tietjerksteradeel,TIETJERKSTERADEEL-305,Vermilion Energy Netherlands B.V.,2003,JAN,624.50968,50,,0,0
+Tubbergen,TUBBERGEN-04,Nederlandse Aardolie Maatschappij B.V.,2003,JAN,0.0,220,,0,0
+Tubbergen-Mander,TUBBERGEN-MANDER-01,Nederlandse Aardolie Maatschappij B.V.,2003,JAN,815.449295,264,,0,0
+Warga-Wartena,WARTENA-01,Vermilion Energy Netherlands B.V.,2003,JAN,59.002450865,256,,0,0
+F15a-A,F15-A-05,Total E&P Nederland B.V.,2003,JAN,0.0,123,,0,0
+G17cd-A,G17-A-01,Neptune Energy Netherlands B.V.,2003,JAN,15507.2505,41,,0,0
+Halfweg,Q01-HALFWEG-A-02,Petrogas E&P Netherlands B.V.,2003,JAN,4100.20353523,222,,0,0
+Haven,Q01-HAVEN-A-01,Petrogas E&P Netherlands B.V.,2003,JAN,19.79864472,310,,0,0
+F03-FB,F03-FB-107,Neptune Energy Netherlands B.V.,2003,JAN,39279.073275335,10,,0,0
+Weststellingwerf,WESTSTELLINGWERF-01,Vermilion Energy Netherlands B.V.,2003,JAN,260.235926435,293,,0,0
+Zuid-Schermer,ZUID SCHERMER-01,TAQA Onshore B.V.,2003,JAN,0.0,298,,0,0
+Zuidwal,ZUIDWAL-A-01,Vermilion Energy Netherlands B.V.,2003,JAN,2076.383919925,126,,0,0
+D15a-A,D15-FA-101,Neptune Energy Netherlands B.V.,2003,JAN,17311.155150000002,148,,0,0
+F02a-Hanze,F02-A-02,Dana Petroleum Netherlands B.V.,2003,JAN,6064.706335,152,,0,0
+Groningen,UITERBUREN-04,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,2448.457715,1,,0,0
+Noordwolde,NOORDWOLDE-01,Vermilion Energy Netherlands B.V.,2003,NOV,684.18200189,252,,0,0
+Nijensleek,NIJENSLEEK-01,Vermilion Energy Netherlands B.V.,2003,NOV,4186.93020721,275,,0,0
+Munnekezijl,MUNNEKEZIJL-05,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,2635.17767,61,,0,0
+Monster,MONSTER-03,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,19143.542505,124,,0,0
+Molenpolder,OOSTERZAND-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,11348.77557,143,,0,0
+Norg-Zuid,NORG ZUID-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,516.90835,233,,0,0
+Middelburen,MIDDELBUREN-01,Vermilion Energy Netherlands B.V.,2003,NOV,474.71175,239,,0,0
+Marum,MARUM-102,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,108,,0,0
+Maasdijk,GAAG-05,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,191.99453,244,,0,0
+Loon op Zand,WAALWIJK SOUTH-01,Vermilion Energy Netherlands B.V.,2003,NOV,1520.479582035,262,,0,0
+Leeuwarden-Nijega,OPEINDE-05,Vermilion Energy Netherlands B.V.,2003,NOV,85.57892446,144,,0,0
+Metslawier,ANJUM-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,36858.7301,102,,0,0
+Oldelamer,OLDELAMER-01,Vermilion Energy Netherlands B.V.,2003,NOV,117.03016027,177,,0,0
+Oldenzaal,OLDENZAAL-07,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,311,,0,0
+Pernis,PERNIS WEST-06,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,6197.625625000001,71,,0,0
+Pasop,PASOP-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,192,,0,0
+Oude Pekela,OUDE PEKELA-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,147,,0,0
+Oud-Beijerland Zuid,OUD BEIJERLAND ZUID-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,25812.715135,159,,0,0
+Oppenhuizen,OPPENHUIZEN-01,Vermilion Energy Netherlands B.V.,2003,NOV,0.0,323,,0,0
+Opende-Oost,OPENDE OOST-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,16862.816275,74,,0,0
+Opeinde-Zuid,OPEINDE-03,Vermilion Energy Netherlands B.V.,2003,NOV,948.169206065,266,,0,0
+Opeinde,OPEINDE-07,Vermilion Energy Netherlands B.V.,2003,NOV,523.764242585,248,,0,0
+Oostrum,ENGWIERUM-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,34637.07911,87,,0,0
+Oosterhesselen,OOSTERHESSELEN-05,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,104,,0,0
+Harlingen Upper Cretaceous,HARLINGEN-06,Vermilion Energy Netherlands B.V.,2003,NOV,0.0,226,,0,0
+Harlingen Lower Cretaceous,HARLINGEN-101,Vermilion Energy Netherlands B.V.,2003,NOV,664.40445547,305,,0,0
+Hardenberg,HARDENBERG-08,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,579.148335,48,,0,0
+Grouw-Rauwerd,RAUWERD-01,Vermilion Energy Netherlands B.V.,2003,NOV,45.11554980500001,263,,0,0
+Grootegast,GROOTEGAST-103,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,4543.518905,75,,0,0
+Hoogenweg,HOOGENWEG-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,203.598595,314,,0,0
+Houwerzijl,KRABBUREN-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,8.43932,274,,0,0
+Leeuwarden 101 Rotliegend,LEEUWARDEN-102,Vermilion Energy Netherlands B.V.,2003,NOV,0.0,319,,0,0
+Leens,LEENS-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,22038.229265,73,,0,0
+Kommerzijl,KRABBUREN-03,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,10649.366925,52,,0,0
+Kollumerland,KOLLUMERLAND-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,7900.258435000001,205,,0,0
+Kollum-Noord,KOLLUMERPOMP-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,65919.52852,30,,0,0
+Kollum,KOLLUMERPOMP-03,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,4520.310775,157,,0,0
+Kiel-Windeweer,KIEL WINDEWEER-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,6250.371375000001,153,,0,0
+Pernis-West,PERNIS WEST-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,40,,0,0
+Suawoude,SUAWOUDE-03,Vermilion Energy Netherlands B.V.,2003,NOV,0.0,323,,0,0
+Starnmeer,STARNMEER-02,TAQA Onshore B.V.,2003,NOV,0.0,300,,0,0
+Sprang,SPRANG-01,Vermilion Energy Netherlands B.V.,2003,NOV,862.18624916,258,,0,0
+Slootdorp,SLOOTDORP-05,Vermilion Energy Netherlands B.V.,2003,NOV,0.0,145,,0,0
+Sleen,SLEEN-07,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,323,,0,0
+Sebaldeburen,SEBALDEBUREN-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,2711.13155,80,,0,0
+Roswinkel,ROSWINKEL-09,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,251,,0,0
+Rossum-Weerselo,ROSSUM-WEERSELO-09,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,1187.83429,194,,0,0
+Rotterdam,ROTTERDAM-03,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,181,,0,0
+Roden,RODEN-102,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,320,,0,0
+Ried,RIED-02,Vermilion Energy Netherlands B.V.,2003,NOV,187.391935855,282,,0,0
+Reedijk,REEDIJK-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,13518.735725,97,,0,0
+Rammelbeek,RAMMELBEEK-02,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,323,,0,0
+Schoonebeek Olie,SCHOONEBEEK-599,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,0.0,295,,0,0
+Schoonebeek Gas,SCHOONEBEEK-597,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,3444.2974750000003,91,,0,0
+Schermer,SCHERMER-04,TAQA Onshore B.V.,2003,NOV,0.0,323,,0,0
+Saaksum,SAAKSUM-01,Nederlandse Aardolie Maatschappij B.V.,2003,NOV,23300.96252,43,,0,0
+Annerveen,ZUIDLAREN-01,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,29,,0,0
+Appelscha,APPELSCHA-02,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,4663.7792150000005,174,,0,0
+Anjum,ANJUM-04,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,31659.054065,16,,0,0
+Ameland-Westgat,AMELAND WESTGAT-108,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,20528.6459,42,,0,0
+Barendrecht,BARENDRECHT-01,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,236,,0,0
+Barendrecht-Ziedewij,BARENDRECHT ZIEDEWIJ-01,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,4906.409665,140,,0,0
+Berkel,BERKEL-10,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,17.709913020000002,291,,0,0
+Bergermeer,BERGERMEER-08,Taqa Piek Gas B.V.,2003,AUG,4554.054341105,175,,0,0
+Bergen,BERGEN-04,TAQA Onshore B.V.,2003,AUG,5859.26163875,163,,0,0
+Bedum,BEDUM-03,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,14,,0,0
+Ameland-Oost,AMELAND WESTGAT-106,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,13,,0,0
+Ameland-Noord,AMELAND WESTGAT-109,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,323,,0,0
+'s-Gravenzande,'S-GRAVENZANDE-02,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,39713.33009,25,,0,0
+Dalen,DALEN-05,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,330.188395,106,,0,0
+Collendoornerveen,COLLENDOORNERVEEN-01,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,799.62557,265,,0,0
+Coevorden,COEVORDEN-57,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,763.75846,19,,0,0
+De Wijk,DE WIJK-25,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,37,,0,0
+De Lutte,DE LUTTE-06,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,0.0,323,,0,0
+De Blesse,DE BLESSE-01,Vermilion Energy Netherlands B.V.,2003,AUG,5169.410523650001,150,,0,0
+Boerakker,BOERAKKER-02,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,302.760605,92,,0,0
+Blijham,BLIJHAM-04,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,6613.262135,166,,0,0
+Blija-Zuidoost,BLIJA-FERWERDERADEEL-106,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,2016.99748,90,,0,0
+Blija-Ferwerderadeel,BLIJA-FERWERDERADEEL-105,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,3336.6961450000003,160,,0,0
+Botlek,BOTLEK-01,Nederlandse Aardolie Maatschappij B.V.,2003,AUG,9440.434335,15,,0,0
+Bozum,BOZUM-01,Vermilion Energy Netherlands B.V.,2003,AUG,2.005393415,303,,0,0
+Castricum-Zee,Q08-A-03,Wintershall Noordzee B.V.,2003,AUG,858.0362135500001,297,,0,0
+Den Velde,DEN VELDE-03,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,204,,0,0
+Eleveld,ELEVELD-101,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,5814.69148,79,,0,0
+Emmen,EMMEN-07,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,0.0,114,,0,0
+Emmen-Nieuw Amsterdam,EMMEN-NIEUW AMSTERDAM-01,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,3077.1870550000003,206,,0,0
+Engwierum,ENGWIERUM-02,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,5980.313135,290,,0,0
+Ezumazijl,ANJUM-03,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,3366.233765,183,,0,0
+Feerwerd,SAAKSUM-02,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,2975.915215,232,,0,0
+Franeker,FRANEKER-01,Vermilion Energy Netherlands B.V.,2003,SEP,0.0,312,,0,0
+Gaag,GAAG-02,Nederlandse Aardolie Maatschappij B.V.,2003,SEP,514.79852,47,,0,0
+Groet,GROET-01,TAQA Onshore B.V.,2003,SEP,8826.536044985,173,,0,0
+D15a-A104,D15-FA-104,Neptune Energy Netherlands B.V.,2004,OCT,22.679828568,155,,0,0
+Middenmeer,MIDDENMEER-01,Vermilion Energy Netherlands B.V.,2004,OCT,490.535475,176,,0,0
+K15-FM,K15-FK-103,Nederlandse Aardolie Maatschappij B.V.,2004,OCT,4926.444610680001,103,,0,0
+K12-C,K12-C-02,Neptune Energy Netherlands B.V.,2004,OCT,0.0,322,,0,0
+Q05-A,Q05-A-01,Wintershall Noordzee B.V.,2004,OCT,0.0,250,,0,0
+Loon op Zand-Zuid,WAALWIJK SOUTH-02,Vermilion Energy Netherlands B.V.,2005,MAY,8454.65635427,254,,0,0
+L05-B,L05-B-03,Wintershall Noordzee B.V.,2005,JUN,0.0,69,,0,0
+F16-E,F16-A-06,Wintershall Noordzee B.V.,2005,MAY,0.0,26,,0,0
+D12-A,D12-A-01,Wintershall Noordzee B.V.,2005,MAY,69420.735494505,45,,0,0
+K05-C Unit,K05-ENC-05,Total E&P Nederland B.V.,2005,MAY,0.0,100,,0,0
+K02b-A,K02-A-02,Neptune Energy Netherlands B.V.,2005,MAY,0.0,11,,0,0
+K12-B9,K12-B-09,Neptune Energy Netherlands B.V.,2005,JUN,0.0,46,,0,0
+Lauwersoog,LAUWERSOOG-02,Nederlandse Aardolie Maatschappij B.V.,2005,MAY,0.0,27,,0,0
+Een,NORG-06,Nederlandse Aardolie Maatschappij B.V.,2005,MAY,2614.749241025,253,,0,0
+Geestvaartpolder,'S-GRAVENZANDE-03,Nederlandse Aardolie Maatschappij B.V.,2005,MAY,0.0,171,,0,0
+L02-FB,L02-FA-104,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,2364.9812361350005,17,,0,0
+Groet-Oost,GROET OOST-01,TAQA Onshore B.V.,2006,OCT,0.0,142,,0,0
+Collendoorn,HOOGENWEG-02,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,0.0,240,,0,0
+G17a-S1,G17-S-01,Neptune Energy Netherlands B.V.,2006,OCT,40156.89863937,63,,0,0
+G16a-A,G16-A-01,Neptune Energy Netherlands B.V.,2006,OCT,14430.451288325,54,,0,0
+G14-A&B,G14-A-02,Neptune Energy Netherlands B.V.,2006,OCT,36268.215055875,21,,0,0
+Zuidwending-Oost,OUDE PEKELA-04,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,11132.46102959,165,,0,0
+K17-FA,K17-FA-102,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,14992.353872905,62,,0,0
+K15-FN,K15-FA-108,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,0.0,313,,0,0
+K15-FE,K15-FA-107,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,0.0,86,,0,0
+Hekelingen,SPIJKENISSE OOST-02,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,15674.687663715,146,,0,0
+Spijkenisse-Oost,SPIJKENISSE OOST-01,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,16048.986274525,127,,0,0
+Spijkenisse-West,SPIJKENISSE OOST-03,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,18006.21332554,186,,0,0
+Noorderdam,'S-GRAVENZANDE-04,Nederlandse Aardolie Maatschappij B.V.,2006,OCT,0.0,151,,0,0
+P11b-De Ruyter,P11-A-01,Dana Petroleum Netherlands B.V.,2006,MAR,0.0,162,,0,0
+K12-K,K12-K-02,Neptune Energy Netherlands B.V.,2007,MAR,0.0,230,,0,0
+Westbeemster,WESTBEEMSTER-01,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,57,,0,0
+Witterdiep,WITTEN-02,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,197,,0,0
+F15a-B,F15-A-06,Total E&P Nederland B.V.,2007,MAR,0.0,99,,0,0
+G14-C,G14-B-02,Neptune Energy Netherlands B.V.,2007,MAR,0.0,180,,0,0
+A12-FA,A12-A-01,Petrogas E&P Netherlands B.V.,2007,MAR,0.0,9,,0,0
+Oud-Beijerland Noord,OUD BEIJERLAND ZUID-02,Nederlandse Aardolie Maatschappij B.V.,2007,APR,0.0,272,,0,0
+K15-FJ,K15-FK-104,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,135,,0,0
+K15-FO,K15-FB-107,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,107,,0,0
+Moddergat,MODDERGAT-01,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,33278.14182666,20,,0,0
+Nes,MODDERGAT-02,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,40892.633282395,2,,0,0
+Middelie,MIDDELIE-302,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,111,,0,0
+Hardenberg-Oost,COEVORDEN-58,Nederlandse Aardolie Maatschappij B.V.,2007,MAR,0.0,237,,0,0
+Assen,ASSEN-01,Nederlandse Aardolie Maatschappij B.V.,2007,APR,0.0,231,,0,0
+Faan,FAAN-01,Nederlandse Aardolie Maatschappij B.V.,2008,JUL,0.0,170,,0,0
+K05-F,K05-F-02,Total E&P Nederland B.V.,2008,FEB,0.0,125,,0,0
+L05-C,L05-C-03,Wintershall Noordzee B.V.,2008,FEB,0.0,85,,0,0
+G16a-B,G16-A-03,Neptune Energy Netherlands B.V.,2008,FEB,16778.493754305,44,,0,0
+Vierhuizen,VIERHUIZEN-01,Nederlandse Aardolie Maatschappij B.V.,2008,FEB,0.0,78,,0,0
+Zevenhuizen,ZEVENHUIZEN-01,Nederlandse Aardolie Maatschappij B.V.,2008,FEB,0.0,260,,0,0
+Surhuisterveen,SURHUISTERVEEN-01,Nederlandse Aardolie Maatschappij B.V.,2008,FEB,0.0,221,,0,0
+Rustenburg,WESTBEEMSTER-02,Nederlandse Aardolie Maatschappij B.V.,2009,MAY,0.0,168,,0,0
+K15-FP,K15-FB-108,Nederlandse Aardolie Maatschappij B.V.,2009,DEC,43067.68129244,101,,0,0
+Blesdijke,BLESDIJKE-01,Vermilion Energy Netherlands B.V.,2009,MAR,0.0,292,,0,0
+Gasselternijveen,GASSELTERNIJVEEN-01,Nederlandse Aardolie Maatschappij B.V.,2009,MAY,0.0,182,,0,0
+Geesbrug,GEESBRUG-01,Vermilion Energy Netherlands B.V.,2009,MAY,0.0,217,,0,0
+Grolloo,GROLLOO-01,Vermilion Energy Netherlands B.V.,2009,MAY,0.0,245,,0,0
+M07-A,M07-A-01,ONE-Dyas B.V.,2009,OCT,17163.868972615,134,,0,0
+L09-FB,L09-FB-101,Nederlandse Aardolie Maatschappij B.V.,2009,OCT,12346.31796281,200,,0,0
+L09-FA,L09-FA-101,Nederlandse Aardolie Maatschappij B.V.,2009,OCT,0.0,117,,0,0
+L09-FE,L09-FA-102,Nederlandse Aardolie Maatschappij B.V.,2009,OCT,0.0,255,,0,0
+L09-FK,L09-FA-103,Nederlandse Aardolie Maatschappij B.V.,2009,OCT,0.0,51,,0,0
+L09-FL,L09-FB-102,Nederlandse Aardolie Maatschappij B.V.,2009,OCT,33940.67275309,167,,0,0
+P09-A,P09-A-01,Wintershall Noordzee B.V.,2009,OCT,17178.348735905,211,,0,0
+P09-B,P09-B-01,Wintershall Noordzee B.V.,2009,OCT,10725.182611135002,278,,0,0
+E17a-A,E17-A-01,Neptune Energy Netherlands B.V.,2009,MAY,0.0,5,,0,0
+F02a-Pliocene,F02-B-01,Dana Petroleum Netherlands B.V.,2009,MAY,0.0,196,,0,0
+Boekel,BOEKEL-01,TAQA Onshore B.V.,2010,SEP,0.0,323,,0,0
+Brakel,BRAKEL-01,Vermilion Energy Netherlands B.V.,2010,SEP,1204.640140865,238,,0,0
+Andel-6 (Wijk & Aalburg),ANDEL-06,Vermilion Energy Netherlands B.V.,2010,SEP,0.0,296,,0,0
+K09ab-C,K09AB-B-05,Neptune Energy Netherlands B.V.,2010,AUG,14986.089787635,247,,0,0
+K09ab-D,K09AB-B-06,Neptune Energy Netherlands B.V.,2010,AUG,0.0,216,,0,0
+K05-C North,K05-CU-02,Total E&P Nederland B.V.,2010,AUG,0.0,261,,0,0
+K05-U,K05-CU-01,Total E&P Nederland B.V.,2010,AUG,0.0,110,,0,0
+E18-A,E18-A-03,Wintershall Noordzee B.V.,2010,AUG,0.0,207,,0,0
+P15 Rijn,P15-RIJN-A-01,TAQA Offshore B.V.,2010,SEP,0.0,294,,0,0
+Harkema,TIETJERKSTERADEEL-702,Nederlandse Aardolie Maatschappij B.V.,2010,SEP,5358.998792535001,201,,0,0
+Vinkega,VINKEGA-01,Vermilion Energy Netherlands B.V.,2011,MAR,0.0,88,,0,0
+B13-FA,B13-A-01,Petrogas E&P Netherlands B.V.,2011,MAR,0.0,24,,0,0
+F03-FA,F03-FA-01,Spirit Energy Nederland B.V.,2011,MAR,37188.075617915005,53,,0,0
+G16a-C,G16-B-01,Neptune Energy Netherlands B.V.,2011,MAR,0.0,56,,0,0
+N07-FA,AMELAND WESTGAT-110,Nederlandse Aardolie Maatschappij B.V.,2011,FEB,0.0,118,,0,0
+Oudeland,NUMANSDORP-01,Nederlandse Aardolie Maatschappij B.V.,2011,MAR,0.0,141,,0,0
+K18-Golf,K18-G-04,Wintershall Noordzee B.V.,2012,NOV,18884.49546777,121,,0,0
+L04-D,L04-A-07,Total E&P Nederland B.V.,2012,SEP,0.0,229,,0,0
+P11b-Van Ghent,P11-C-01,Dana Petroleum Netherlands B.V.,2012,SEP,6852.775311175001,137,,0,0
+G16a-D,G16-B-04,Neptune Energy Netherlands B.V.,2012,JUL,44067.09510446001,105,,0,0
+Wieringa,KRABBUREN-04,Nederlandse Aardolie Maatschappij B.V.,2012,JUL,0.0,271,,0,0
+Metslawier-Zuid,DE TIBBEN-01,Nederlandse Aardolie Maatschappij B.V.,2012,JUL,1150.24555872,82,,0,0
+Blija-Zuid,BLIJA-FERWERDERADEEL-108,Nederlandse Aardolie Maatschappij B.V.,2012,SEP,4552.514165205001,214,,0,0
+De Hoeve,DE HOEVE-01,Vermilion Energy Netherlands B.V.,2012,SEP,0.0,281,,0,0
+Eernewoude,EERNEWOUDE-02,Vermilion Energy Netherlands B.V.,2012,SEP,0.0,242,,0,0
+K04a-Z,K04-Z-02,Total E&P Nederland B.V.,2013,OCT,24198.808060905,131,,0,0
+K12-H (K12-S2 & K12-D5),K12-D-05,Neptune Energy Netherlands B.V.,2013,OCT,9290.837893765,241,,0,0
+L08-D,L11B-A-08,ONE-Dyas B.V.,2013,OCT,4615.34384769,169,,0,0
+D18a-A,D18-A-03,Neptune Energy Netherlands B.V.,2013,OCT,0.0,224,,0,0
+Langezwaag,LANGEZWAAG-01,Vermilion Energy Netherlands B.V.,2013,MAR,0.0,213,,0,0
+De Lier,MONSTER-04,Nederlandse Aardolie Maatschappij B.V.,2013,NOV,0.0,280,,0,0
+De Klem,NUMANSDORP-02,Nederlandse Aardolie Maatschappij B.V.,2013,NOV,15746.76895075,287,,0,0
+Oudendijk,NUMANSDORP-03,Nederlandse Aardolie Maatschappij B.V.,2014,MAR,0.0,246,,0,0
+Heinenoord,BLAAKSEDIJK-01,Nederlandse Aardolie Maatschappij B.V.,2014,MAR,0.0,235,,0,0
+Burum-Oost,WARFSTERMOLEN-02,Nederlandse Aardolie Maatschappij B.V.,2014,FEB,0.0,315,,0,0
+Q01-D,Q01-D-01,Wintershall Noordzee B.V.,2014,FEB,0.0,98,,0,0
+Q13a-Amstel,Q13-A-02,Neptune Energy Netherlands B.V.,2014,FEB,0.0,268,,0,0
+Q16-Maas,MAASGEUL-03,ONE-Dyas B.V.,2014,FEB,0.0,156,,0,0
+Pieterzijl Oost,WARFSTERMOLEN-03,Nederlandse Aardolie Maatschappij B.V.,2015,MAY,0.0,273,,0,0
+Hemrik (Akkrum 11),HEMRIK-01,Kistos NL1 B.V.,2015,MAY,0.0,306,,0,0
+A18-FA,A18-A-02,Petrogas E&P Netherlands B.V.,2015,MAY,0.0,33,,0,0
+Sonnega-Weststellingwerf,SONNEGA WESTSTELLINGWERF-02,Vermilion Energy Netherlands B.V.,2015,MAY,10049.34182215,288,,0,0
+Diever,DIEVER-02,Vermilion Energy Netherlands B.V.,2015,MAY,0.0,70,,0,0
+Donkerbroek-Main,DONKERBROEK-03,Kistos NL1 B.V.,2015,MAY,0.0,307,,0,0
+Donkerbroek-West,DONKERBROEK-04,Kistos NL1 B.V.,2015,MAY,364.767453785,269,,0,0
+Eesveen,EESVEEN-01,Vermilion Energy Netherlands B.V.,2015,MAY,5613.4558946,188,,0,0
+L09-FM,L09-FA-105,Nederlandse Aardolie Maatschappij B.V.,2015,SEP,0.0,308,,0,0
+L06-B,L06-B-01,Wintershall Noordzee B.V.,2015,SEP,8745.645162785002,138,,0,0
+L05a-D,L05-D-03,Neptune Energy Netherlands B.V.,2015,SEP,0.0,120,,0,0
+L11-Gillian,L11B-A-07,ONE-Dyas B.V.,2015,SEP,0.0,215,,0,0
+L10-N,L10-L-06,Neptune Energy Netherlands B.V.,2015,SEP,4350.6382464,225,,0,0
+K15-FI,K15-FB-109,Nederlandse Aardolie Maatschappij B.V.,2015,SEP,18992.86899555,203,,0,0
+K15-FH,K14-FA-108,Nederlandse Aardolie Maatschappij B.V.,2016,AUG,21333.709556825,161,,0,0
+Assen-Zuid,WITTEN-04,Nederlandse Aardolie Maatschappij B.V.,2017,JUL,0.0,323,,0,0
+L13-FI,L13-FI-101,Nederlandse Aardolie Maatschappij B.V.,2018,FEB,0.0,178,,0,0
+Q10-A,Q10-A-01,Kistos NL2 B.V.,2019,AUG,36283.034501795,93,,0,0
+Spijkenisse-Intra,SPIJKENISSE OOST-04,Nederlandse Aardolie Maatschappij B.V.,2020,JUL,0.0,285,,0,0
+Q16-Maasmond (Charlie-North),MAASMOND-01,ONE-Dyas B.V.,2020,AUG,0.0,289,,0,0
+D12-B,D12-B-01,Wintershall Noordzee B.V.,2020,JUL,34530.147651025,116,,0,0
+Grijpskerk,GRIJPSKERK-01,Nederlandse Aardolie Maatschappij B.V.,2021,MAY,0.0,317,,0,0
