@@ -1,11 +1,7 @@
-from lib2to3.pgen2.pgen import DFAState
 import streamlit as st
 from streamlit_folium import folium_static
 import pandas as pd
-import glob
-import os
 import seaborn as sns
-import plotly.express as px
 import matplotlib.pyplot as plt
 import folium
 import requests
@@ -23,9 +19,6 @@ from geopandas import GeoDataFrame
 import branca.colormap as cm
 import json
 import geojson
-import geopandas as gpd
-import folium
-import pandas as pd
 import matplotlib
 import time 
 
