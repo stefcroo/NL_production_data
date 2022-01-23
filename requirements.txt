@@ -4,7 +4,6 @@ pandas==1.1.5
 numpy==1.20.1
 streamlit==0.87.0
 
-folium_static
 glob
 os
 seaborn
