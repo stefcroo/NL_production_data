@@ -19,7 +19,6 @@ geopy
 geopy.distance 
 distance
 math
-numpy as np
 statistics
 base64
 geopandas
